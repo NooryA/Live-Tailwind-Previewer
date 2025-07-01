@@ -2,7 +2,7 @@
   "name": "live-tailwind-previewer",
   "displayName": "Live Tailwind Previewer",
   "description": "Preview Tailwind CSS utility classes in real-time with a live preview panel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icon": "icon.png",
   "publisher": "Noor",
   "engines": {
@@ -131,11 +131,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/live-tailwind-previewer.git"
+    "url": "https://github.com/NooryA/Live-Tailwind-Previewer"
   },
   "bugs": {
-    "url": "https://github.com/your-username/live-tailwind-previewer/issues"
+    "url": "https://github.com/NooryA/Live-Tailwind-Previewer/issues"
   },
-  "homepage": "https://github.com/your-username/live-tailwind-previewer#readme",
+  "homepage": "https://github.com/NooryA/Live-Tailwind-Previewer",
   "license": "MIT"
 }
