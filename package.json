@@ -3,7 +3,8 @@
   "displayName": "Live Tailwind Previewer",
   "description": "Preview Tailwind CSS utility classes in real-time with a live preview panel",
   "version": "1.0.0",
-  "publisher": "your-publisher-name",
+  "icon": "icon.png",
+  "publisher": "Noor",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -17,7 +18,9 @@
     "css",
     "preview",
     "live",
-    "utility"
+    "utility",
+    "tailwindcss",
+    "live tailwind previewer"
   ],
   "activationEvents": [
     "onCommand:tailwindPreviewer.startPreview"
