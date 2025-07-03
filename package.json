@@ -2,7 +2,7 @@
   "name": "live-tailwind-previewer",
   "displayName": "Live Tailwind Previewer",
   "description": "Preview Tailwind CSS utility classes in real-time with a live preview panel",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "icon": "icon.png",
   "publisher": "Noor",
   "engines": {
