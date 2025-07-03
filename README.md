@@ -17,8 +17,7 @@
 
 1. **Open the Preview Panel**:
 
-   - Press `Ctrl+Shift+T` (or `Cmd+Shift+T` on Mac)
-   - Or open Command Palette (`Ctrl+Shift+P`) and run `Tailwind Previewer: Start Preview`
+   - Open Command Palette (`Ctrl+Shift+P`) and run `Tailwind Previewer: Start Preview`
 
 2. **Start Designing**:
 

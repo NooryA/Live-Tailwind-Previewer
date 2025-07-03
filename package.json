@@ -83,31 +83,6 @@
           "description": "Default display mode for previews"
         }
       }
-    },
-    "keybindings": [
-      {
-        "command": "tailwindPreviewer.startPreview",
-        "key": "ctrl+shift+t",
-        "mac": "cmd+shift+t"
-      }
-    ],
-    "menus": {
-      "commandPalette": [
-        {
-          "command": "tailwindPreviewer.startPreview",
-          "when": "true"
-        },
-        {
-          "command": "tailwindPreviewer.togglePreview",
-          "when": "true"
-        }
-      ],
-      "view/title": [
-        {
-          "command": "tailwindPreviewer.startPreview",
-          "group": "navigation"
-        }
-      ]
     }
   },
   "scripts": {
